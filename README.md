@@ -19,6 +19,6 @@ Code for Figures 5A, 5B, 5C, 5E, 5F, 5G, 5H, 5I, 5J, 5K, 7A, S5A, S5B as well as
 
 **gex subfolder** _(differential expression data for pairwise comparisons)_
 
-**gsea subfolder** _(GSEA analyses, ranked lists, gene sets)_
+**gsea subfolder** _(GSEA analyses, ranked lists, gene sets)_ NOTE: Analysis folders zipped
 
 **ipa subfolder** _(IPA upstream regulator analysis output)_
