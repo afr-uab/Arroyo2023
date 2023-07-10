@@ -5,7 +5,7 @@ Figure scripts for Arroyo et al 2023, pubmed PMID = (TBD)
 
 Works on Matlab 2023a. Requires Statistics and Machine Learning Toolbox.
 
-Code for Figures 5A, 5B, 5C, 5E, 5F, 5G, 5H, 5I, 5J, 5K, 7A, S5A, S5B including source data, GSEA analysis input and output, and IPA output.
+Code for Figures 5A, 5B, 5C, 5E, 5F, 5G, 5H, 5I, 5J, 5K, 7A, S5A, S5B as well as source data for the script, which includes: edgeR pairwise RNA-Seq analysis, GSEA analysis input and output, and IPA output.
 
 **nd23_FIGURE_CREATE_SCRIPT.m** _(create all figures)_
 
