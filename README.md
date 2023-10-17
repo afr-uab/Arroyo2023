@@ -1,7 +1,7 @@
 # Arroyo2023
-Figure scripts for Arroyo et al 2023, pubmed PMID = (TBD)
+Figure scripts for Arroyo et al 2023, pubmed PMID = (37699392)
 
-"IFNg-producing Tfh cells control the differentiation of lung resident memory B cells" Arroyo N, Bachus H, Papillion A, Rosenberg A, Leon B, Ballesteros-Tato A. Immunity (accepted).
+"IFNg-producing Tfh cells control the differentiation of lung resident memory B cells" Arroyo N, Bachus H, Papillion A, Randall TD, Akther J, Rosenberg A, Leon B, Ballesteros-Tato A. Immunity. 2023; 56(10):2358-2372.
 
 Works on Matlab 2023a. Requires Statistics and Machine Learning Toolbox.
 
